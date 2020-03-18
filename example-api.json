@@ -1,0 +1,36 @@
+{
+  "api": {
+    "todos": [
+      {
+        "id": 0,
+        "value": "Yemek Yap"
+      },
+      {
+        "id": 1,
+        "value": "Çay Demle"
+      },
+      {
+        "id": 2,
+        "value": "Müzik Yap"
+      }
+    ],
+    "lists": [
+      {
+        "id": 0,
+        "value": "Inbox"
+      },
+      {
+        "id": 1,
+        "value": "Marketing"
+      },
+      {
+        "id": 2,
+        "value": "Family"
+      },
+      {
+        "id": 3,
+        "value": "Work"
+      }
+    ]
+  }
+}

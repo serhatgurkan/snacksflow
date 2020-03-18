@@ -1,8 +1,10 @@
 import React from "react";
 import { View, Text } from "react-native";
-const HomeScreen = () => (
+
+const Task = () => (
   <View>
-    <Text>Home Screen</Text>
+    <Text>Task Screen</Text>
   </View>
 );
-export default HomeScreen;
+
+export default Task;
